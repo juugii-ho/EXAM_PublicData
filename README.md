@@ -1,7 +1,7 @@
 
 # 교재 : 모두의 데이터분석 with 파이썬
 
-<img src="https://github.com/juugii-ho/KDT_5W_EXAM_PublicData/blob/master/cover_007029.jpg?raw=true"/> 
+<img src="https://github.com/juugii-ho/KDT_5W_EXAM_PublicData/blob/master/cover_007029.jpg?raw=true" width="240" height="360"/> 
 
 <br>
 <br>
