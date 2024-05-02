@@ -1,5 +1,5 @@
 
-# 교재 : 모두의 데이터분석 with 파이썬
+# 교재 : 모두의 데이터분석 with 파이썬(송석리, 이현아 / 길벗)
 
 <img src="https://github.com/juugii-ho/KDT_5W_EXAM_PublicData/blob/master/cover_007029.jpg?raw=true" width="240" height="360"/> 
 
